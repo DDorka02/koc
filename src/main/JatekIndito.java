@@ -11,5 +11,7 @@ public class JatekIndito {
 //        referencia.start();
         
         new Jatek();
+        
+        new Jatokos().tippel();
     }
 }
