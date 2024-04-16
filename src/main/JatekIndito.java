@@ -12,6 +12,10 @@ public class JatekIndito {
         
         new Jatek();
         
-        new Jatokos().tippel();
+//        new Jatekos().tippel();
+//        new Jatekos().tippel();
+//        new Jatekos().tippel();
+        
+        
     }
 }
